@@ -5,7 +5,10 @@
 [item-datasheet]: LMT70.pdf
 
 
-![](/temperature_sensor/LMT70/LMT70.jpg)
+F1![](/temperature_sensor/LMT70/LMT70.jpg)
+F2![](/LMT70/LMT70.jpg)
+F3![](/LMT70.jpg)
+
 
 The [LMT70][item-link] is  UltraSmall 0.88mm by 0.88mm 4-bumpWLCSP, high-precision,
 
