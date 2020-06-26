@@ -11,7 +11,7 @@
 
 ±2°C, 2.7V to 5.5V industry standard temperature sensor with I2C/SMBus interface
 
-[preview:3](./temperature_sensor/LMT70/LMT70.md)
+[preview:3](LMT70/LMT70.md)
 
 
 ### SHT20
