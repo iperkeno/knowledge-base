@@ -1,7 +1,7 @@
 Elettronike - Knowledge Base
 ----------------------------
 
-* [Temperature Sensor](/temperature_sensor/index.md)
+* [Temperature Sensor](temperature_sensor/index.md)
 
 
 
