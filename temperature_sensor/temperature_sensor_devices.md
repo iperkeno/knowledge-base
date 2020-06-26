@@ -11,11 +11,19 @@
 
 ±2°C, 2.7V to 5.5V industry standard temperature sensor with I2C/SMBus interface
 
-1
+
+
+1 ../../temperature-sensor/LMT70/LMT70.md
 [preview:3](../../temperature-sensor/LMT70/LMT70.md)
 
-2
+2 ./temperature-sensor/LMT70/LMT70.md
 [preview:3](./temperature-sensor/LMT70/LMT70.md)
+
+3 /LMT70/LMT70.md
+[preview:3](/LMT70/LMT70.md)
+
+4 ./LMT70/LMT70.md
+[preview:3](./LMT70/LMT70.md)
 
 ### SHT20
 The SHT20 is **humidity** and **temperature** sensor of Sensirion has become an industry standard in terms of form factor and intelligence: Embedded in a reflow solderable Dual Flat No leads (DFN) package of 3 x 3mm foot print and 1.1mm height it provides calibrated, linearized sensor signals in digital, I2C format.
