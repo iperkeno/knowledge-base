@@ -13,14 +13,20 @@
 
 
 
-1 ../temperature-sensor/LMT70/LMT70.md
+1 ../temperature_sensor/LMT70/LMT70.md
 [preview:3](../temperature-sensor/LMT70/LMT70.md)
 
-2 LMT70/LMT70.md
-[preview:3](LMT70/LMT70.md)
+1 ./temperature_sensor/LMT70/LMT70.md
+[preview:3](./temperature-sensor/LMT70/LMT70.md)
 
-3 /LMT70/LMT70.md
-[preview:3](/LMT70/LMT70.md)
+1 /temperature_sensor/LMT70/LMT70.md
+[preview:3](/temperature-sensor/LMT70/LMT70.md)
+
+1 temperature_sensor/LMT70/LMT70.md
+[preview:3](temperature-sensor/LMT70/LMT70.md)
+
+3 LMT70/LMT70.md
+[preview:3](LMT70/LMT70.md)
 
 4 ./LMT70/LMT70.md
 [preview:3](./LMT70/LMT70.md)
