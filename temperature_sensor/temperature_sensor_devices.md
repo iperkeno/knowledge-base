@@ -12,13 +12,8 @@
 ±2°C, 2.7V to 5.5V industry standard temperature sensor with I2C/SMBus interface
 
 
+### [LMT70](LMT70/LMT70.md)
 
-
-
-
-[LMT70](LMT70/LMT70.md)
-
-[LMT70](./LMT70/LMT70.md)
 
 
 ### SHT20
@@ -46,13 +41,13 @@ This  converter  resolves  temperatures  to  0.25°C,  allows  readings  as  hig
 # Digital temperature sensors
 --------
 
-[preview:3](/temperature_sensor/LM70/LM70.md) 
+### [LM70](LM70/LM70.md) 
 
-[preview:3](/temperature_sensor/DS18B20/DS18B20.md) 
+### [DS18B20](DS18B20/DS18B20.md) 
 
-[preview:3](/temperature_sensor/TMP116/TMP116.md) 
+### [TMP116](TMP116/TMP116.md) 
 
-[preview:3](/temperature_sensor/TMP117/TMP117.md) 
+### [TMP117](TMP117/TMP117.md) 
 
 
 
