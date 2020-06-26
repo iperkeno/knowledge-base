@@ -11,22 +11,6 @@
 
 ±2°C, 2.7V to 5.5V industry standard temperature sensor with I2C/SMBus interface
 
-1 
-[preview:3](./LMT70.md)
-
-2 
-[preview:3](/LMT70.md)
-
-3 
-[preview:3](./LMT70/LMT70.md)
-
-4 
-[preview:3](/LMT70/LMT70.md)
-
-5 
-[preview:3](/temperature_sensor/LMT70/LMT70.md)
-
-6 
 [preview:3](./temperature_sensor/LMT70/LMT70.md)
 
 
